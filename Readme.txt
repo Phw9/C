@@ -1,1 +1,1 @@
-soo
+This repo is for checking my study progress.
