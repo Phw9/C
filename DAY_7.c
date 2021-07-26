@@ -176,6 +176,8 @@ int main(void)
 	
 	//16-1-3
 
+	
+
 	//PointerSwapFail.c
 	
 	
@@ -196,6 +198,8 @@ int main(void)
 
 	SwapIntDptr(&ptr1, &ptr2);
 	printf("*ptr1, *ptr2 : %d %d\n", *ptr1, *ptr2);*/
+	
+	//
 
 	
 	return 0;
